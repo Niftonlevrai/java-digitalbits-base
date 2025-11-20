@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Deprecated!
 
 Use [java-digitalbits-sdk](https://github.com/digitalbitsorg/java-digitalbits-sdk) instead.
